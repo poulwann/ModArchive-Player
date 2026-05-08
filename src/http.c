@@ -5,7 +5,7 @@
 #include <string.h>
 #include <stdio.h>
 
-#define USER_AGENT "mod_player/0.1 (Linux; github.com/mod_player)"
+#define USER_AGENT "mod_player/0.1 (Linux)"
 
 static bool g_initialized = false;
 
